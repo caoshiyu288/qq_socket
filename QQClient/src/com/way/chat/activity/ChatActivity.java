@@ -1,9 +1,8 @@
-package com.way.chat.activity;
+﻿package com.way.chat.activity;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
 import com.way.chat.common.bean.TextMessage;
 import com.way.chat.common.bean.User;
 import com.way.chat.common.tran.bean.TranObject;
